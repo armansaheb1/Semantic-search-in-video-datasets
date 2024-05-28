@@ -1,6 +1,4 @@
 # Ignore all video files
-*.mp4
-
 src/__pycache__
 
 extra_codes/
